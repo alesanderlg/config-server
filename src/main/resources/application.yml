@@ -6,4 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/alesanderlg/config-server
+          uri: https://github.com/alesanderlg/config-server-store
+          #username: root
+          #passphrase: 123456
