@@ -9,3 +9,5 @@ spring:
           uri: https://github.com/alesanderlg/config-server-store
           #username: root
           #passphrase: 123456
+          search-paths:
+            - '*service'
